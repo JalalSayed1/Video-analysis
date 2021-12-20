@@ -1,2 +1,4 @@
 # Video-analysis
-Manipulate a video input from the user's camera.
+## About the project:
+
+## What did I learn from this:
